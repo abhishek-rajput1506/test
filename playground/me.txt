@@ -1,5 +1,0 @@
-{{#user}}
-Name: Abhishek Rajput
-Skills: Python, Django, C++, Java, Mysql, Git, Github
-Email: abrajput1506@gmail.com
-{{/user}}
